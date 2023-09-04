@@ -1,6 +1,6 @@
 # FlexBlog
 
-<img src="img/capa.png" alt="capa">
+<img src="img/Capa.png" alt="capa">
 
 O Flexblog tem como objetivo conseguir aplicar praticamente todas as propriedades do Flexbox.
 
